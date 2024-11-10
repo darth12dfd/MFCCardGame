@@ -6,3 +6,6 @@
 *.log
 *.pdb
 *.obj
+*.vsidx
+
+/CardMatching/CardMatching/.vs/CardMatching/v17
