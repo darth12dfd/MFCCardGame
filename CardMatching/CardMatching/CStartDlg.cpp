@@ -68,6 +68,7 @@ void CStartDlg::OnClickedButtonAlone()
 	{
 		CAloneHardDlg alone_hard_dlg;
 		alone_hard_dlg.DoModal();
+		
 	}
 	else// 솔로 6x6
 	{

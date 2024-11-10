@@ -75,7 +75,7 @@ BOOL CCardMatchingDlg::OnInitDialog()
 
 	for (int i = 0; i < 19; i++)
 	{
-		str.Format(L"C:\\Users\dltjd\\Downloads\\cards\\%01d.bmp", i);
+		str.Format(L"Image\\%03d.bmp", i);
 		m_card_list[i].Load(str);
 	}
 
